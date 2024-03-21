@@ -9,8 +9,8 @@ const DestinationSection = () => {
             <h3>FIND YOUR TOUR</h3>
             <p>From</p>
             <select className="form-select" aria-label="Default select example">
-              <option selected>Kolkata</option>
-              <option value={1}>Hyderabad</option>
+              <option selected>Hyderabad</option>
+              <option value={1}>Mumbai</option>
               <option value={2}>Delhi</option>
               <option value={3}>Bengaluru</option>
             </select>

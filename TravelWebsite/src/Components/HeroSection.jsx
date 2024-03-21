@@ -35,7 +35,7 @@ const HeroSection = () => {
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img
-                src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?q=80&w=1476&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://media.istockphoto.com/id/1297349747/photo/hot-air-balloons-flying-over-the-botan-canyon-in-turkey.webp?b=1&s=170667a&w=0&k=20&c=1oQ2rt0FfJFhOcOgJ8hoaXA5gY4225BA4RdOP1RRBz4="
                 className="d-block w-100 carousel-image"
                 alt="..."
               />
@@ -60,7 +60,7 @@ const HeroSection = () => {
             </div>
             <div className="carousel-item">
               <img
-                src="https://images.unsplash.com/photo-1621232082074-1a7750ecc557?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://media.istockphoto.com/id/1337654801/photo/a-drone-view-at-sunset-of-waikiki-beach-and-diamond-head-crater-a-famous-tourist-destination.webp?b=1&s=170667a&w=0&k=20&c=favWswvRR5yCYYGwmgjJNxlblNuJw5mAJikczLdhPEE="
                 className="d-block w-100 carousel-image"
                 alt="..."
               />
@@ -85,7 +85,7 @@ const HeroSection = () => {
             </div>
             <div className="carousel-item">
               <img
-                src="https://plus.unsplash.com/premium_photo-1697730484307-a05ad3449015?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://media.istockphoto.com/id/537868800/photo/skyline-of-paris-with-eiffel-tower-during-sunset.webp?b=1&s=170667a&w=0&k=20&c=1xgoUOc13uJhdbSn2LQWuXMy6FW1E3n2zm3jmP62eno="
                 className="d-block w-100 carousel-image"
                 alt="..."
               />
